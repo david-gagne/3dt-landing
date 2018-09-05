@@ -1,0 +1,7 @@
+body > section > div.hero-head > nav > div > div.navbar-brand > a > img {
+    max-height: 3rem;
+}
+
+body > section {
+    background-image: url('space.jpg');
+}
